@@ -69,7 +69,7 @@ header {
   -webkit-transform: rotate(-37deg);
   transform: rotate(-37deg);
 }.back:before{
-  background-image: url('https://farm9.staticflickr.com/8461/8048823381_0fbc2d8efb.jpg');
+  background-image: url('/images/grey-absract.jpg');
   background-size: cover;
   -webkit-transform-origin: 100% 100% ;
   transform-origin: 100% 100% ;
